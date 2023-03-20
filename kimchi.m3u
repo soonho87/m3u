@@ -1,0 +1,133 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml"
+
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS
+https://hypera-sin-ab.servercantik.net/stream/sbs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1
+https://hypera-sin-ab.servercantik.net/stream/kbs1/stream/kbs1_hq/chunks.m3u8
+
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2
+https://hypera-sin-ab.servercantik.net/stream/kbs2/stream/kbs2_hq/chunks.m3u8
+
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC
+https://hypera-sin-ab.servercantik.net/stream/mbc/stream/mbc_hq/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TVN" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVN
+https://hypera-sin-ab.servercantik.net/stream/tvn_kr/stream/tvn_kr_hq/chunks.m3u8
+
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC
+https://hypera-sin-ab.servercantik.net/stream/jtbc/stream/jtbc_hq/chunks.m3u8
+
+#EXTINF:-1 tvg-id="OCN" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN
+https://hypera-sin-ab.servercantik.net/stream/ocn/stream/ocn_hq/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SPOTVON" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SPOTVON
+https://cdn-hk-33.cloudrsst.com/live/spotv_on_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBS[2]" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS[2]
+https://cdn-hk-33.cloudrsst.com/live/sbs_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBS HD" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS HD
+https://cdn-hk-33.cloudrsst.com/live/sbs_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC HD" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC HD
+https://cdn-hk-33.cloudrsst.com/live/mbc_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tooniverse" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Tooniverse
+https://cdn-hk-33.cloudrsst.com/live/tooniverse_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Mnet
+https://hypera-sin-ab.servercantik.net/stream/mnet/stream/mnet_hq/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TV Chosun" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TV Chosun
+https://hypera-sin-ab.servercantik.net/stream/chosun/stream/chosun_hq/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SBS HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS HD tvdol
+http://122.129.115.66:1935/livedol/ch1449358/chunklist_w309113932.m3u8 
+
+#EXTINF:-1 tvg-id="KBS1 HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1 HD tvdol
+http://122.129.115.66:1935/livedol/ch1413845/chunklist_w1542930755.m3u8
+
+#EXTINF:-1 tvg-id="KBS2 HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2 HD tvdol
+http://122.129.115.66:1935/livedol/ch1426504/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC HD tvdol
+http://122.129.115.66:1935/livedol/ch1439945/chunklist_w152713916.m3u8
+
+#EXTINF:-1 tvg-id="JTBC HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC HD tvdol
+http://122.129.115.66:1935/livedol/ch1570014/chunklist_w356904814.m3u8
+
+#EXTINF:-1 tvg-id="MBN HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBN HD tvdol
+http://122.129.115.66:1935/livedol/ch1570013/chunklist_w1129747260.m3u8
+
+#EXTINF:-1 tvg-id="CHANNEL A tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",CHANNEL A tvdol
+http://122.129.115.66:1935/livedol/ch1570012/chunklist_w217240697.m3u8
+
+#EXTINF:-1 tvg-id="TV CHOSUN tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TV CHOSUN tvdol
+http://122.129.115.66:1935/livedol/ch1570016/chunklist_w1488087101.m3u8
+
+#EXTINF:-1 tvg-id="Mnet tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Mnet tvdol
+http://122.129.115.66:1935/livedol/ch1248359/chunklist_w385532587.m3u8
+
+#EXTINF:-1 tvg-id="TVN tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVN tvdol
+http://122.129.115.66:1935/livedol/ch1269932/chunklist_w403802353.m3u8
+
+#EXTINF:-1 tvg-id="OCN tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN tvdol
+http://122.129.115.66:1935/livedol/ch1273509/chunklist_w720314133.m3u8
+
+#EXTINF:-1 tvg-id="OCN Movie tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN Movie tvdol
+http://122.129.115.66:1935/livedol/ch1286697/chunklist_w2094399242.m3u8
+
+#EXTINF:-1 tvg-id="OCN Movie2 tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN Movie2 tvdol
+http://122.129.115.66:1935/livedol/ch1296308/chunklist_w2118143881.m3u8
+
+#EXTINF:-1 tvg-id="ENA tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",ENA tvdol
+http://122.129.115.66:1935/livedol/ch1258649/chunklist_w1242287015.m3u8
+
+#EXTINF:-1 tvg-id="TVN Sport tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVN Sport tvdol
+http://122.129.115.66:1935/livedol/ch1340598/chunklist_w1295071604.m3u8
+
+#EXTINF:-1 tvg-id="Tooniverse tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Tooniverse tvdol
+http://122.129.115.66:1935/livedol/ch1362498/chunklist_w506661943.m3u8
+
+#EXTINF:-1 tvg-id="Spotv on tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Spotv on tvdol
+http://122.129.115.66:1935/livedol/ch1546701/chunklist_w1299359864.m3u8
+
+#EXTINF:-1 tvg-id="Spotv tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Spotv tvdol
+http://122.129.115.66:1935/livedol/ch1527825/chunklist_w1641378442.m3u8
+
+#EXTINF:-1 tvg-id="Spotv2 tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Spotv2 tvdol
+http://122.129.115.66:1935/livedol/ch1534920/chunklist_w60744131.m3u8
+
+#EXTINF:-1 tvg-id="JTBC3 tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC3 tvdol
+http://122.129.115.66:1935/livedol/ch1560877/chunklist_w1983551103.m3u8
+
+#EXTINF:-1 tvg-id="JTBC Golf tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC Golf tvdol
+http://122.129.115.66:1935/livedol/ch1516720/chunklist_w892252597.m3u8
+
+#EXTINF:-1 tvg-id="SBS Golf tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Golf tvdol
+http://122.129.115.66:1935/livedol/ch1508520/chunklist_w1530630767.m3u8
+
+#EXTINF:-1 tvg-id="YTN tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",YTN tvdol
+http://122.129.115.66:1935/livedol/ch1458530/chunklist_w1811697476.m3u8
+
+#EXTINF:-1 tvg-id="MBC Sport tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Sport tvdol
+http://122.129.115.66:1935/livedol/ch1486502/chunklist_w1945598925.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",National Geographic tvdol
+http://122.129.115.66:1935/livedol/ch1213974/chunklist_w398216045.m3u8
+
+#EXTINF:-1 tvg-id="SCTV tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SCTV tvdol
+http://122.129.115.66:1935/liveedge3/199320223054/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVONE tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVONE tvdol
+http://122.129.115.66:1935/liveedge3/20221514953622/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INDOSIAR tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",INDOSIAR tvdol
+http://122.129.115.66:1935/liveedge3/9914941519993055/chunklist_w2054137283.m3u8
+
+#EXTINF:-1 tvg-id="NET tv tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",NET tv tvdol
+http://122.129.115.66:1935/liveedge3/14952020223096/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans tv tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Trans tv tvdol
+http://122.129.115.66:1935/liveedge3/2018911419943050/playlist.m3u8
