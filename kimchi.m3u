@@ -24,16 +24,22 @@ https://hypera-sin-ab.servercantik.net/stream/ocn_hq/chunks.m3u8?platformLanguag
 #EXTINF:-1 tvg-id="SPOTVON kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SPOTVON
 https://cdn-hk-33.cloudrsst.com/live/spotv_on_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBS kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS[2]
+#EXTINF:-1 tvg-id="SBS kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Kako
 https://cdn-hk-33.cloudrsst.com/live/sbs_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBS HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS HD
+#EXTINF:-1 tvg-id="SBS HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Kako HD
 https://cdn-hk-33.cloudrsst.com/live/sbs_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC HD
+#EXTINF:-1 tvg-id="MBC HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Kako HD
 https://cdn-hk-33.cloudrsst.com/live/mbc_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tooniverse" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Tooniverse
+#EXTINF:-1 tvg-id="KBS2 kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2 kako
+https://jk-live-us76.supportnettv.com/live/kbs2_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBS1 kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1 kako
+https://jk-live-us76.supportnettv.com/live/kbs1_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tooniverse" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Tooniverse Kako
 https://cdn-hk-33.cloudrsst.com/live/tooniverse_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Mnet
