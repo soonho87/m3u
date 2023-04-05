@@ -22,25 +22,28 @@ https://hypera-sin-ab.servercantik.net/stream/jtbc/playlist.m3u8?token=eyJhbGciO
 https://hypera-sin-ab.servercantik.net/stream/ocn_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMzMDk0LCJleHAiOjE2ODAxNzYyOTR9.St1fqqOfF9PL_gUws3_Dlzw-MQDmglkVU8wcp_gy0Xc
 
 #EXTINF:-1 tvg-id="SPOTVON kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SPOTVON
-https://cdn-hk-33.cloudrsst.com/live/spotv_on_540/playlist.m3u8
+https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=8756f4d6996bb4d827f2248bd6d7d72b&time=1680689584
 
 #EXTINF:-1 tvg-id="SBS kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Kako
-https://cdn-hk-33.cloudrsst.com/live/sbs_540/playlist.m3u8
+https://jk-live-us76.supportnettv.com/live/sbs_540/playlist.m3u8?secret=a21b0e2b5881edbf7e885dc7f62f0517&time=1680689454
 
 #EXTINF:-1 tvg-id="SBS HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Kako HD
-https://cdn-hk-33.cloudrsst.com/live/sbs_720/playlist.m3u8
+https://jk-live-us76.supportnettv.com/live/sbs_720/playlist.m3u8?secret=9171662524f9fdc478c6c6eda3a9bc2c&time=1680689488
 
 #EXTINF:-1 tvg-id="MBC HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Kako HD
-https://cdn-hk-33.cloudrsst.com/live/mbc_720/playlist.m3u8
+https://jk-live-us76.supportnettv.com/live/mbc_540/playlist.m3u8?secret=5b49e02eafedc633759499a1abb052de&time=1680689396
 
 #EXTINF:-1 tvg-id="KBS2 kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2 kako
-https://jk-live-us76.supportnettv.com/live/kbs2_540/playlist.m3u8
+https://jk-live-us76.supportnettv.com/live/kbs2_540/playlist.m3u8?secret=56b3caca507fb4617b8a706aa7bface7&time=1680689343
 
 #EXTINF:-1 tvg-id="KBS1 kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1 kako
-https://jk-live-us76.supportnettv.com/live/kbs1_540/playlist.m3u8
+https://jk-live-us76.supportnettv.com/live/kbs1_540/playlist.m3u8?secret=cdfeaf5c6827babb8408bca8a4a13a97&time=1680689512
 
 #EXTINF:-1 tvg-id="Tooniverse" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Tooniverse Kako
-https://cdn-hk-33.cloudrsst.com/live/tooniverse_540/playlist.m3u8
+https://jk-live-us76.supportnettv.com/live/tooniverse_540/playlist.m3u8?secret=05ce518a85696596467283ff220ccdec&time=1680689551
+
+#EXTINF:-1 tvg-id="OCN" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN Kako
+https://cdn-hk-33.cloudrsst.com/live/ocn_540/playlist.m3u8?secret=8af24b7b24ea1b7a7a9b7d71b9e3dabb&time=1680689647
 
 #EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Mnet
 https://hypera-sin-ab.servercantik.net/stream/mnet_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMzMTYwLCJleHAiOjE2ODAxNzYzNjB9.Ohdn0P38cCrWWR-3aqVPS5Giv4IDdwRsLL8TpIM23hA
