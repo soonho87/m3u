@@ -140,3 +140,9 @@ http://122.129.115.66:1935/liveedge3/14952020223096/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trans tv tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Trans tv tvdol
 http://122.129.115.66:1935/liveedge3/2018911419943050/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC sky" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Sky
+http://69.25.115.202:8018/dtv0/nl.m3u8?k=689875949&k0=1680688800&k1=Ag1aDVRQXARY&c=BQRTBVU%3D&a=0&d=122&ip=69.25.115.202&nn_day=&nn_begin=&nn_time_len=
+
+#EXTINF:-1 tvg-id="SBS sky" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Sky
+http://69.25.115.202:8018/dtv1/nl.m3u8?k=689957083&k0=1680688800&k1=Ag1aDFZSVQhS&c=BQRTB1U%3D&a=0&d=82&ip=69.25.115.202&nn_day=&nn_begin=&nn_time_len=
