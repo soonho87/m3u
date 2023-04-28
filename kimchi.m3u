@@ -1,55 +1,55 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml"
 
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS
-https://hypera-sin-ab.servercantik.net/stream/sbs_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMyOTQyLCJleHAiOjE2ODAxNzYxNDJ9.TyveXqyZ4N1MEZykK3Wyml_OqeOGwh2JxCZyHZ2rbLE
+https://hypera-sin-ab.servercantik.net/stream/sbs_lq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTEyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgyNjYzNDkyLCJleHAiOjE2ODI3MDY2OTJ9.hcZO82OtiT2tTxd-UL59RGQ-cqCghW4U29m5FARGjxM
 
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1
-https://hypera-sin-ab.servercantik.net/stream/kbs1_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMyNzI4LCJleHAiOjE2ODAxNzU5Mjh9.gQz1khMyiHWLCgK8Rjza1T4rADvWBppKWA4BIg9raP0
+https://hypera-sin-ab.servercantik.net/stream/kbs1/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTEyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgyNjYzNTIzLCJleHAiOjE2ODI3MDY3MjN9.nXWzi5an0ec7fyNQavIorvEKesH6FADN-HyPIjZbr4w&platformLanguage=ko
 
 #EXTINF:-1 tvg-id="KBS2" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2
-https://hypera-sin-ab.servercantik.net/stream/kbs2_lq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMjM2NzAxLCJleHAiOjE2ODAyNzk5MDF9.nRcBT-5vjbjGqnQW6SjlkLQ0GqIDCyr-RpC8XGObk_k
+https://hypera-sin-ab.servercantik.net/stream/kbs2_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTEyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgyNjYzNTYwLCJleHAiOjE2ODI3MDY3NjB9.FZPb6nX-4ZiYudss02uKF9EhD1zl3z3zueQMjFab19I
 
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC
-https://hypera-sin-ab.servercantik.net/stream/mbc_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMzMDA2LCJleHAiOjE2ODAxNzYyMDZ9.YzM_HJ2OuDURYZvhHSeug_YxokHTjBivQjNnT03Epjg
+https://hypera-sin-ab.servercantik.net/stream/mbc_lq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTEyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgyNjYzNjEyLCJleHAiOjE2ODI3MDY4MTJ9.tHSIIw-PfWV72RoRlFYKioT4t7O-rqkmROb1VKY4fnk
 
 #EXTINF:-1 tvg-id="TVN" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVN
-https://hypera-sin-ab.servercantik.net/stream/tvn_kr_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMzMDMxLCJleHAiOjE2ODAxNzYyMzF9.gKvJBRO0zt3fK58e5GNutlJDJnW8VkjFuS7UW-8w7nA
+https://hypera-sin-ab.servercantik.net/stream/tvn_kr_lq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTEyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgyNjYzNjQ2LCJleHAiOjE2ODI3MDY4NDZ9.RJgj1vo_vvmyKiOi55_78MTXagDmpowFL99lAqfMJuA
 
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC
-https://hypera-sin-ab.servercantik.net/stream/jtbc/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMzMDYyLCJleHAiOjE2ODAxNzYyNjJ9.qqkOpvpZvvvBDu5oBgLMPG9PBNTCXM7y-jlFO0T7z-E&platformLanguage=ko
+https://hypera-sin-ab.servercantik.net/stream/jtbc_lq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTEyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgyNjYzNjcyLCJleHAiOjE2ODI3MDY4NzJ9.4k-VkVVlcubEYbbQWGrJf2vRAuvahejjOgwEJNrwXQ0
 
 #EXTINF:-1 tvg-id="OCN" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN
-https://hypera-sin-ab.servercantik.net/stream/ocn_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMzMDk0LCJleHAiOjE2ODAxNzYyOTR9.St1fqqOfF9PL_gUws3_Dlzw-MQDmglkVU8wcp_gy0Xc
+https://hypera-sin-ab.servercantik.net/stream/ocn_lq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTEyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgyNjYzNjkzLCJleHAiOjE2ODI3MDY4OTN9.UvAGZEYVF3fkngbWN6grk6sk-F7xlewiB1ruvgNRDG4
 
 #EXTINF:-1 tvg-id="SPOTVON kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SPOTVON
 https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=8756f4d6996bb4d827f2248bd6d7d72b&time=1680689584
 
 #EXTINF:-1 tvg-id="SBS kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Kako
-https://jk-live-us76.supportnettv.com/live/sbs_540/playlist.m3u8?secret=0f89285c22eb094d7a281e9723a658f6&time=1681706831
+https://jk-live-us76.supportnettv.com/live/sbs_540/playlist.m3u8?secret=a21b0e2b5881edbf7e885dc7f62f0517&time=1680689454
 
 #EXTINF:-1 tvg-id="SBS HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Kako HD
-https://jk-live-us76.supportnettv.com/live/sbs_720/playlist.m3u8?secret=3173456726b9ce55d802d9e3ec34b14a&time=1681706857
+https://jk-live-us76.supportnettv.com/live/sbs_720/playlist.m3u8?secret=9171662524f9fdc478c6c6eda3a9bc2c&time=1680689488
 
 #EXTINF:-1 tvg-id="MBC HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Kako HD
-https://jk-live-us76.supportnettv.com/live/mbc_540/playlist.m3u8?secret=88bc3a8867bd47cb2218765e4c282163&time=1681706703
+https://jk-live-us76.supportnettv.com/live/mbc_540/playlist.m3u8?secret=5b49e02eafedc633759499a1abb052de&time=1680689396
 
 #EXTINF:-1 tvg-id="KBS2 kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2 kako
-https://jk-live-us76.supportnettv.com/live/kbs2_540/playlist.m3u8?secret=53233b33039e433b1f87e35893f63f08&time=1681706793
+https://jk-live-us76.supportnettv.com/live/kbs2_540/playlist.m3u8?secret=56b3caca507fb4617b8a706aa7bface7&time=1680689343
 
 #EXTINF:-1 tvg-id="KBS1 kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1 kako
-https://jk-live-us76.supportnettv.com/live/kbs1_540/playlist.m3u8?secret=7ebcf98fce2cd0935168f1005fb2e0bc&time=1681706638
+https://jk-live-us76.supportnettv.com/live/kbs1_540/playlist.m3u8?secret=cdfeaf5c6827babb8408bca8a4a13a97&time=1680689512
 
 #EXTINF:-1 tvg-id="Tooniverse" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Tooniverse Kako
-https://jk-live-us76.supportnettv.com/live/tooniverse_540/playlist.m3u8?secret=6f8c4b2bc5d1e9dbaad50b60cc1db2a9&time=1681706914
+https://jk-live-us76.supportnettv.com/live/tooniverse_540/playlist.m3u8?secret=05ce518a85696596467283ff220ccdec&time=1680689551
 
 #EXTINF:-1 tvg-id="OCN" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN Kako
-https://jk-live-us76.supportnettv.com/live/ocn_540/playlist.m3u8?secret=ec371591b275b778ff10019d129bfc37&time=1681706886
+https://cdn-hk-33.cloudrsst.com/live/ocn_540/playlist.m3u8?secret=8af24b7b24ea1b7a7a9b7d71b9e3dabb&time=1680689647
 
 #EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Mnet
-https://hypera-sin-ab.servercantik.net/stream/mnet_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMzMTYwLCJleHAiOjE2ODAxNzYzNjB9.Ohdn0P38cCrWWR-3aqVPS5Giv4IDdwRsLL8TpIM23hA
+https://hypera-sin-ab.servercantik.net/stream/mnet_lq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTEyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgyNjYzNzIxLCJleHAiOjE2ODI3MDY5MjF9.nUztTKATyiN8d5fCsAXrNKPoEyI-lywg9ETLYkSy0Nc
 
 #EXTINF:-1 tvg-id="TV Chosun" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TV Chosun
-https://hypera-sin-ab.servercantik.net/stream/chosun_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTExLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgwMTMzMjAyLCJleHAiOjE2ODAxNzY0MDJ9.8u8l5tnvpk9rMAH7ocPpgYu1Yfe6LsSMMIq52796YdY
+https://hypera-sin-ab.servercantik.net/stream/chosun_lq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodWlkIjoiemNjNG5mcGI0dyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTEyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJhc24iOiI3NzEzIiwiY291bnRyeSI6IklEIiwicGxhdGZvcm1MYW5ndWFnZSI6ImtvIiwiaWF0IjoxNjgyNjYzNzQ3LCJleHAiOjE2ODI3MDY5NDd9.XsXfDhAFKamk9DkjYYwUKWJgzKUAmXjGVaymFHTnrrA
 
 #EXTINF:-1 tvg-id="SBS HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS HD tvdol
 http://122.129.115.66:1935/livedol/ch1449358/chunklist_w309113932.m3u8 
@@ -142,7 +142,7 @@ http://122.129.115.66:1935/liveedge3/14952020223096/playlist.m3u8
 http://122.129.115.66:1935/liveedge3/2018911419943050/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBC sky" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Sky
-http://69.25.115.202:8018/dtv0/nl.m3u8?k=689875949&k0=1680688800&k1=Ag1aDVRQXARY&c=BQRTBVU%3D&a=0&d=122&ip=69.25.115.202&nn_day=&nn_begin=&nn_time_len=
+http://69.25.115.202:8018/dtv2/nl.m3u8?k=663907559&k0=1682661600&k1=UFJQWgJWV1MM&c=V1VTUwQ=&a=0&d=81&ip=69.25.115.202&nn_day=&nn_begin=&nn_time_len=
 
 #EXTINF:-1 tvg-id="SBS sky" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Sky
-http://69.25.115.202:8018/dtv1/nl.m3u8?k=689957083&k0=1680688800&k1=Ag1aDFZSVQhS&c=BQRTB1U%3D&a=0&d=82&ip=69.25.115.202&nn_day=&nn_begin=&nn_time_len=
+http://69.25.115.202:8018/dtv3/nl.m3u8?k=663808392&k0=1682661600&k1=UFJQWwJZUV8H&c=V1VTUQQ=&a=0&d=75&ip=69.25.115.202&nn_day=&nn_begin=&nn_time_len=
