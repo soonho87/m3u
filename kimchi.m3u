@@ -1,167 +1,85 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml"
 
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS
-https://sin-hypera-ab.awan.zip/stream/sbs_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..G24q2UOZQ0ZXgbGn.awSiVz0yQuFkxm0UdLr9OGjYmtMHJ2FVBiqpwtL9uLkuTP0tHx-6a8dWFNziZCWyMrWq08Xl9zMT02YnGnUA7UYfwJbwx9-oaeYWWzHkVBi8SY4ZTK0DyLkb82iwINRHNhgl-KKVwFXF1NM0vRkX6z1cC24nHZBrKvNVSkwXlHPoH4FhJz2If5rsJXPw06LqWdHi05NQxmvx-HjSi6-WD3qjwWY7VFT00mwy99kb7t5XdSAoKJjHIC6zH9mIXQ_L0h6mdUFOK4tsI6zJpPZlTsjO_iktNgDD3X6BxjlKofxy5XOtyzW6tL8BLxBz4BqlcirZiBft__L2SlfQDG7as5MSfod0MbxiYBs2hc55hO7q76VHeEGq-eWTr5Y5y_Yzc0aLTmlGxP6mWYfIEznzzCe27sHn8LPEFaXLj8BbrWWQIC_M_QUr7LAb_wZH0dk31ip0J5gi7_2dkQjY_woPXoTlaK0xODeeFh4NwERNmVPLVPeRNa6UnmCoFU9j.ZXTUW9sJ9-aGS_pb8rwYAA
-
-#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1
-https://sin-hypera-ab.awan.zip/stream/kbs1_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..ad_sDneXVZao-vfW.lSjk7QQRaHnvHq_hE6RUeinMoqG1K39pjNnY6-d0w7oVBzfgQVaPaNTeq8_wFVRZQUvWGQnYgBcmAe-WQu3ZLdJveks7Zp91ow43yJcBnE1mYjySdtdUgE5Q8SJLPSV8qwhce7ZVe2TGCsndSKBZ9Opy8T0mvVkvoF-Ka3Yuaap6XIgMjT7yExlfXb_7wvAyR5QJjQY9WUc7sCz9ln0LyXaiAEFwRuE3_v8e7_xcSXbRymMw_61iJf9LmrL6WmlrveTIEhP66q7yBIl7EFJffdyfRcRUTu16x2qXWJxFKuZYet1cRwCkyCzyD5ReHLvYYf4OMXhwCoznyx8Prix4Q_SV7tYHNl6ZpmIt2yPkt6TQxMK9gAvbPwuV4PGIMpNbDR5NWqxWxsnQugJeTJZswvJbB7DlY7n43CN5v9vQaJBxFvxB7o2D7J7Ac8IquB191yX0nGKq9AwO76Vv5e4rt9LKyADXL7nLfW5C0rsWCjRvx0PRvy-2e73uandH2w.7tIAaND5bdor8SCWkEaRGg
-
-#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2
-https://hypera-sin-ab.servercantik.net/stream/kbs2_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..tuO0m1zk2AR-Wy-L.nREoTPB09HZ2VN9V-5H-aSe6VzdOl1tmTgbWVk1jznAvcX6TnLFdZn7O9LpaB2JB_yyzfJNeTQSEDEkvm8DkzLGj_LGCLRPLmZxYUwJLyh-tGPUzTH0HgFW1yliDv3eBZviqQVSd6HHW5nebTLnff2D5CsF9VUYv3EN4SExDWapkFkHpNQx6zCDDOdlwNDP0WZ4sC_lLUQOtNQLVCIZcLd7v-M_NftZ-c0_UlsQNPcckfSvIdtQVpp3Rf-emsVyfxXx0QcIZm1V8PwLETTkkKH9YacTATwcPn8VTevEBGGvCSd6mNN-RHfaovK1IsHjza_a-UevX9buCXvwuFbWazV0ONpVXhsYZKoGWJ4vf_Uakxn4RTpavkYJ495s1xX_X9R0pSYJyuDLNBcwbKejQvmTQzNWJ-5aTPOTUkjx4mAdWNl1C7Zdzi4iBp0AhLbFFFE0tsRVRA1uQQGfIOTKjHcr_APssTVTYhLFlbhxaedGslC7Ni_sjdXczYFEmXg.csZ4Jpkyip131Ln6VtjTdg
-
-#EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC
-https://sin-hypera-ab.awan.zip/stream/mbc_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..tGv7QrBdW4QpRLx7.hkXAtMdevG04kYmPYYnCPNnoK8G88X9vpPNdCmh9LDyDUCSiyeAyhm1vNRTyB2ZMvI7lOmqK5OYnfLdz4QTOLSOX_fS_IcdEBCr6-B8zwJScqIMlBIR-Vn-K5o_nl9WSB8XKZyscinTCeDYp7j4W0wzVLWIrwvyj9-qk0mtjjW7iHYgLA2eFHXqbo921LLlAomRZEawd4Aho8SrOWyOFmeIvm1tn8SroftCfNgKSAwnxT2Y1YTzUb94qbCn7xxXUtgOoTYBFddODUW8SvNvt2MX_1ApkCpjb69yaszI65AXRLywrNpIKU0xn8pOi3wYI8VztxW0r-LCtn8XwGMrv5JcPwJ2Wuw5hPPSIckMYWrsTB7bVUxogsqI6xpW4iCWSifbFO2bk2oMqmaL9AcX9Vx0jw0Wdl1w0VZacDznu4thkbKdznX-txA9qnskNqTvcRZOEfAZf1fMqhDM1IN02yFx1Gn9-yL2JgVQ7k89vR6qoSU6mcOpjeht3dvq4.QjaIir2D1I7QHzMc3JCq8g
-
-#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Mnet
-https://hypera-sin-ab.servercantik.net/stream/mnet_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..N1O4tO5ysqRcUnWG.LYkmfrw-zmxiQIHBefseJ0yzN8Nq-Eu9XeuGg6SQzQmguoYEKTzEvPiaEg_qCGYZKaH9Ws70shZCeMaX6W0FnZK4okFktbW6g3Yd4qzex3hMdfNLX8oYh6Z9U_kuuq-gjG9P6Lcxkg0L5M-lfRYAefgxQzIsbGiPfKy8VDiZVooogAD2KNUL1cVfj4q21udCjNVRMwwPl-HBoccwojcnHT2O3FUipS8G3452xgS4olnvVH_zS69-w51u3IEQhHlCpaD6P2qWODL7rUCujqNZd1j2MWjNx7AGyaGMvQYjFcrzJHo4b_E23OC5CG413vaJjINFwcmNsc95GJwVXzVffT3iNbIw-FHDbbV9uQbOMATpErV0918al9_GRofcGhLoW17i6UxUAbMM07UFMYpDRE-3P7sEY1bMna9BslSE7-_d0-fs8lvw-yY7ZVQtTF39-QuPz749nSBTwt6LLiIpaxClrvy6g1664jz6aXiPFhkeZr764E1_cSehcxgbcg.G4FMdGJIIymzNRXF3V3XQg
-
-#EXTINF:-1 tvg-id="OCN" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN
-https://hypera-sin-ab.servercantik.net/stream/ocn_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..emtwssmSTuyVS1UG.TCWmgCMGg-p7JNs2Vxh_VZ9TDN8O1ta9Y7HLLmSVx4K-fphDFe7SlhVKccr5tc3-orbIl7DA60A_fo4js0BfneKHqF8MXyWoeXyMi_o_6QMGqp8w547_tI1VuWvxwtjdIs-9tp24LTdoGs1eKaSfY2V_syqY6WbVBBlhniXHLMj8RYfIANcRuYW9dJOAQ_qGmbzGocIb77MJafAVh4I8JFSvbCKsXbEckMXSasDZVVTHycUwuliSanbcrEcAuMBbzW4XcWSbhd1kkuBUdgIvYM3_lvA4Vtw1o7QiNurTLzP01QoVam6EjDW2vEJqnVLDgPAwoOK389bqjjzvsYyxyNZ3qX5SEBocjZlvXKJeCq0qzI8QFTgXAVh-Fk91O2RRcCV7adeuh5Q_VBmdTQv5lFJlbC2jaWzM1el7kx5jugGcvZ927wbQgPR5PtrMY4bJb8WiUkKEe5Vn5pc6EIcPd-j4pIRYate78nUPDE97dLFhyb1T3GMyrgZMhv97.iBMSZmXZpLDyEbAX6CYsHg
-
-#EXTINF:-1 tvg-id="TVN" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVN
-https://hypera-sin-ab.servercantik.net/stream/tvn_kr_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..GABoeApK8AShqd2p.XvIY7EpHpCVZB27ozzEGMf0zxfNKbnPgsax_6pRsxdj1evlCxB36Fx7zNHQ_LpSPInM1rbe01j1MzLL5tdrBaS3yR2ST3z_7w-eo-iYR9WZ5ytB3X1kgc67MZaj6XqA0I67xrX4mlPX-cmP6mlIIHlL6YbAF-AQ__9rau3DpVkHzY2eYYZ9xAE4FRkwtNdbXMiud3uqTr0zS41a8CHyuu6dBOmYGMfEZeJD5S0qmHFQGF3tmXRxZ1trAJyZeo-fnHCb1kIhnma7zGzuojcDnUj1SYFhprBkucSQ5TDhiaLlXfiBVLsq5ajYMqtGBHgF5pjrAbAzOb66TfndV2eJTU2L87QzXNhXta3DdNgNo7nczGkYbysO4vh6aAAe1jYdj9MUtjAfDYkCS0S4aO_LAWFxGW2ShdIVvAZsqko02y9o9dwxOeEDdmy3jSZtHCGpygMzMKbCn_KD_OJkTijaziaXT8zBa46ZA6jEpXmF0hx-jauRxX51yKNUiXrDZVzDu.YgwU7lnpHbZvUABqabFW4w
-
-#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC
-https://hypera-sin-ab.servercantik.net/stream/jtbc_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..aFqjp_mcxz0GN1iG.wY7TOIj7nxixZujGKbycatyMQiLVZFNpGLDp3RFGfVwcn5EDFmkXpAdoHeafqMwqpZc6wqsIz32pONQjTBPGk1pCWXBow7mLYGPzxygtXm8TZp6q8Kv1vUUs46wT9BkU6OUbD3Lr-l3r8pv5vv3OdNypl9lsLLx1UtQiTVLQB5WolO115PgUHmzBssQPGCYyU-W0q-RH1rNd_lK-UwkkkZch2q4xPbY6cHT2Ecs7XcxvNd9iODx786hV-k0jJmwCZOQY1l3fRcJVvQXga4c4Hzn12FrJjdAoiZxR59n1eNtD7Zjx8l8yvnK4I7fV4kW9z1VQ2nKJ-SI9EGp-zVgJ9XS1vM03PZdomsE-rvnpCBJZqPDsBqFfxVdE36dJ3cv-Y0tc2Wo7djZSnKq5Ek7OW99H0-QKa-z7Sc2o_YxO1jVk5HHXkW1pG7SaOeQi85BqBx5NvKDNzE6zXRFp6a7JT6MEJwNFRuvLNtcLng_b6qFTEJrhj1wjyZLci2Cn0g.JlQUVRGBZirAvOhyW3z8hw
-
-#EXTINF:-1 tvg-id="TV Chosun" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TV Chosun
-https://sin-hypera-ab.awan.zip/stream/chosun_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..PiBUhLrYKcuSX0tW.9lAqgcgClJjEoUoJ2fp6Kt0CrwPbFnYyaRe2emIREJlIY64TguAiW14RauHlQf_pryZupsRN0gGcwjqtNjMrIBX-v4msQg0BfIumb4XIiGK0bN16fNlu_Mdsi-kMqXAmZeMXCvxnIhag7uSpKi7Bs445MiHrwrVmzmCoMkvN0bbXaVj9sg4h0J3n2kK-D3Eqx3uU5iEKukoF9j3RP-1vdK8KkdGEC2GDG5wQccKNuXYtBNWNkLub9lkc3f5OLIHFSimNvtbEk-PrMHne1J0HqyhyId5vPvWIObg2ozJ5vduab4dDdNIg1EHsz-zHtNRcMO2Xc6tA61IQCtPypESe6mCRm1YJefHAOneGlW2kLipMbNxfzDBKHqm4ja-NsIutKmrDUwclXgRZHt9iDMc3DQmTgDM-piSPoXI9DkuqEhq0-TsfYgITp6_XxHj56HtnPsSLBu2BxDRauh0x5d03F37egeU4gbeFsvNdR9WaeBkUMN33RzUHU8aKJvMe-QfZ.uU3u0frCAPuv_zDmARh-gA
-
-#EXTINF:-1 tvg-id="Tooniverse" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Tooniverse
-https://hypera-sin-ab.servercantik.net/stream/tooni_hq/chunks.m3u8?platformLanguage=ko&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..TBf-K51LKe0G4_rH.HVa6VTZpFfjC_Iju8nm57pNlecvg2HZRZLcyI5eL5l0HBcmg57Bh1Uxjf0OnygSrxaZE7PnqApslGIRys78kIR5G1lXhPqd6yQxkqf-aN2MDq3kf2jMlSBxiajYN45o7wFdllBJMMNzLVQkh06HiiY5bm3So53J18_xHawKKtJ1abMYNO-KJeKtnBYJvVtRjqRWxQyF_L-f5xqpxxQSj94ILJ0N9Do4g1FBIemOu_jVWywjz1KxoFKJjmErnrnbZ8jFxSaAfnD_Juf9CQAFzAS-6JnGaaEbde3xqewdq9tCAjOPUMcaC94WdqAUlsLwkztcvHHS2d9Fref-v54l2kFpQjdEXboj-3MrzP28jodJHB0IsSy8AfeYf8QkmhDmk0-fGWEOPQ37TnylJEhaCyKELR6QFuQ_KU7exBXvF5-LtpB65kqFpVWjydorGTHZaHvxIUPJ5pV2o3i1J7Jq6z3DXRmhK3Fo43y7J99cUQgGyb3uRfNgaHaNqPDkz6TU.aNsAgCglOwtJS2LPesZWMg
-
-
-#EXTINF:-1 tvg-id="SPOTVON kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SPOTVON
-https://cdn.us195.jpnettv.live/krtv/spotv_on_540/chunklist_w498565033_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1zY3h1dHBRT3p0dGxvYTk3VzlZeEpHY2FoUG1vTHFyLWczTEpwQWkwS2xER0E5NEplRGgzdlBiZ1ZyWUZUMkE5JmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDc0NzYx.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="SBS kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Kako
-https://cdn.us195.jpnettv.live/krtv/sbs_540/chunklist_w1516946791_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD15QUVOY2xHcVpYb04yM1pxdTI4cFNvNlNWTkNVTE9lektVbmJDY001LUNVS2NGaDdWVnhycW5XMlkyeEpfenZkJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDc0Njgx.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="SBS HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Kako HD
-https://cdn.us195.jpnettv.live/krtv/sbs_540/chunklist_w1151731806_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1YRnZXakQ2LTNHaWUtd0xBSVlTV1NIT19LQ1FTbnl0MW9kS1pvY0ZhVTg5UkpDa2RrekNXZWFNb3UzN3dVcjZXJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDc0NzI5.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="MBC HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Kako HD
-https://cdn.us195.jpnettv.live/krtv/mbc_540/chunklist_w1447786350_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD05TVdYMmdDMGdLTUs3RXRra2NPaXRCM19Ub0FxbHlFb2xSQzcwTlhGLXM2WHVoendNbEFlUk9IZ2JfR0NsXy1aJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDc0NjQx.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="MBC kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Kako
-https://cdn.us195.jpnettv.live/krtv/mbc_540/chunklist_w2017731876_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1MTUNabDByV0w3WmZGTXB4M19yNFUxTEN0aHRLMTN6SkFVUy03SzJteEFFUWMxdEtJeEV2dUFtcno2dEhmM3BxJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDc0NjAw.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="KBS2 kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2 kako
-https://cdn.us195.jpnettv.live/krtv/kbs2_540/chunklist_w795152840_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD01NWJ5TTFWV1hFSjVJYXg5ZFRRSFlzX3NaM2M3QXF4Q3BYNnlOVUJTRkh4R1gxRjdIQzFCclIyVHpvaFlQSy01JmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg0OTg0NTU2.m3u8?36.68.219.22
-
-#EXTINF:-1 tvg-id="KBS2 HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2 HD kako
-https://cdn.us195.jpnettv.live/krtv/kbs2_540/chunklist_w2025636688_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1mckFzR09MMk9LdjdNazFjVThINnVMZ1YxSjViZ1FMblM4bE5ESFpqVDlUMVFjTHVzSTlieVJVa2wtejYzRDBmJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDk3MjM4.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="KBS1 kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1 kako
-https://cdn.us195.jpnettv.live/krtv/kbs1_540/chunklist_w519409550_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1hQnh5VnpTTDRtVnZVSlp6V0ZWTzV0RS1nSnRMbzJxR3kyd3BtQ1NRdk1pSVU5V25iVHAtMGlZSVBZQ2d2OHl6JmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDk3Mjgz.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="KBS1 HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1 HD kako
-https://cdn.us195.jpnettv.live/krtv/kbs1_540/chunklist_w1806592400_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1QcFEwb255REZmMlFNQ2xac1NOSVY3enRhMzRmUDJranNYWHp1eW9zNEY4NWpPY3paUTNGZ3Q5dGxScnVVbDFtJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDk3MzMz.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="JTBC HD kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC Kako HD
-https://cdn.us195.jpnettv.live/krtv/jtbc_540/chunklist_w1610022472_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1VVWxjdmg2T3VMQi1RUTludDBBYklkRDN2U0tSOXRpTllkeUl0U3V4WkRMTjRteHZ4c2ZITDdDX1YtdG50UC1VJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDk3Nzgz.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="JTBC kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC Kako
-https://cdn.us195.jpnettv.live/krtv/jtbc_540/chunklist_w1808974165_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1STE9rZjBmMkc0SWRnNW5oWTM2Z1BkdmVkZjhoNHVRYmRKRzhlZThGSmhsaDhHV0tmU281UmRnVVFGMFg4MlFWJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDk3MzY0.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="Tooniverse" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Tooniverse Kako
-https://cdn.us195.jpnettv.live/krtv/tooniverse_540/chunklist_w820317999_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1WVkdYd09rdWI4WW85NnpIcTNJc3BvOUE1amU2b19DejdnZmViMDZTNkhMOG5uZ1JWOW51LUZQZGFoeFJhY1U2JmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDk3ODQ5.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="OCN" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN Kako
-https://cdn.us195.jpnettv.live/krtv/ocn_540/chunklist_w35607540_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD0wbERncEdPeGFVVGYyLUVtYTdxV2xqSUxUWThnZXdnY3piNmxBN1FqbTFIblEtclUtWlFJbHJTV19nU2RjczFDJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDk3ODgx.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="TVN Kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVN Kako
-https://cdn.us195.jpnettv.live/krtv/tvn_540/chunklist_w1843067014_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD04ZTB1SU1YZmMxZWUxeGM0ZF9hQXVnYWhBbm9RMDdSWG9mRS15UTdmYzBlUEdidWoybUxvSHFOYnFSazBGam9GJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg0OTg0Nzgw.m3u8?36.68.219.22
-
-#EXTINF:-1 tvg-id="TVN HD Kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVN HD Kako
-https://cdn.us195.jpnettv.live/krtv/tvn_540/chunklist_w1319092395_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1DLUhULTN4dzgxdWNSc3BLV2ZYamE3aVZlTElaZlZob2VYWDlHMTJ0ZWpsYWRMTXVUQmpIOHZ5OWRxNmFiSklPJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg0OTg1MjM1.m3u8
-
-#EXTINF:-1 tvg-id="xTVN Kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",xTVN Kako
-https://cdn.us195.jpnettv.live/krtv/xtm_540/chunklist_w1985562492_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1CM2s2TXBHaFFTN2lWN3pIOHA1NnZTYmc1QzM1MEtCZENZekk5dVNnRnRsLU10cDNUZG5pMHQyS0pDV0Z5TzkwJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg0OTg1MTcy.m3u8
-
-#EXTINF:-1 tvg-id="Mnet Kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Mnet Kako
-https://cdn.us195.jpnettv.live/krtv/mnet_540/chunklist_w481810090_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1UczBBTXBOVWlITXNHbUFLTTJrRkdxaGdwVVJycmhNc2NsbDFrbzVGWXpNSkFnNkF2T0NEYVN6bDJOQkM0TlZPJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg1MDk3OTA5.m3u8?180.251.87.12
-
-#EXTINF:-1 tvg-id="CNN Kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",CNN Kako
-https://cdn.us195.jpnettv.live/krtv/cnn_kr_540/chunklist_w1527779858_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1XTWYwWDkxbXdfaGNjdE9oOHJCMEFWTkxHWjdaM2JpQzNWMDg3ZlNfVk5UWkctbjlMWGFUSzVRZUtjTFNlc2s1JmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg0OTg0OTcz.m3u8
-
-#EXTINF:-1 tvg-id="BBC Kako" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",BBC Kako
-https://cdn.us195.jpnettv.live/krtv/bbc_kr_540/chunklist_w1226830178_tkZG9hbm51YWRpY29uY2hvZW5kdGltZT0mZG9hbm51YWRpY29uY2hvaGFzaD1McjREdVQ5U0dheWl2bjRrV1RQVVpaSkpFNk0yUm1pZld2VWtTZzN5bGRCcGE1a3lPZUtFNU1uaExQUC1BRl9sJmRvYW5udWFkaWNvbmNob3N0YXJ0dGltZT0xNjg0OTg1MDM3.m3u8
-
 #EXTINF:-1 tvg-id="SBS HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS HD tvdol
-http://122.129.115.66:1935/livedol/ch1449358/chunklist_w309113932.m3u8 
+http://122.129.115.66:1935/livedol/_definst_/ch1449358/chunklist_w580702460.m3u8
 
 #EXTINF:-1 tvg-id="KBS1 HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1 HD tvdol
-http://122.129.115.66:1935/livedol/ch1413845/chunklist_w1542930755.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1413845/chunklist_w1746303368.m3u8
 
 #EXTINF:-1 tvg-id="KBS2 HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS2 HD tvdol
-http://122.129.115.66:1935/livedol/ch1426504/playlist.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1426504/chunklist_w728469412.m3u8
 
 #EXTINF:-1 tvg-id="MBC HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC HD tvdol
-http://122.129.115.66:1935/livedol/ch1439945/chunklist_w152713916.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1439945/chunklist_w1156260687.m3u8
 
 #EXTINF:-1 tvg-id="JTBC HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC HD tvdol
-http://122.129.115.66:1935/livedol/ch1570014/chunklist_w356904814.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1236671/chunklist_w607262273.m3u8
 
 #EXTINF:-1 tvg-id="MBN HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBN HD tvdol
-http://122.129.115.66:1935/livedol/ch1570013/chunklist_w1129747260.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1224783/chunklist_w980959254.m3u8
 
 #EXTINF:-1 tvg-id="CHANNEL A tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",CHANNEL A tvdol
-http://122.129.115.66:1935/livedol/ch1570012/chunklist_w217240697.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1213974/chunklist_w771473611.m3u8
 
 #EXTINF:-1 tvg-id="TV CHOSUN tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TV CHOSUN tvdol
-http://122.129.115.66:1935/livedol/ch1570016/chunklist_w1488087101.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1248359/chunklist_w462314901.m3u8
 
 #EXTINF:-1 tvg-id="Mnet tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Mnet tvdol
-http://122.129.115.66:1935/livedol/ch1248359/chunklist_w385532587.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1570014/chunklist_w854746715.m3u8
 
 #EXTINF:-1 tvg-id="TVN tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVN tvdol
-http://122.129.115.66:1935/livedol/ch1269932/chunklist_w403802353.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1269932/chunklist_w561582477.m3u8
 
 #EXTINF:-1 tvg-id="OCN tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN tvdol
-http://122.129.115.66:1935/livedol/ch1273509/chunklist_w720314133.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1273509/chunklist_w115781240.m3u8
 
 #EXTINF:-1 tvg-id="OCN Movie tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN Movie tvdol
-http://122.129.115.66:1935/livedol/ch1286697/chunklist_w2094399242.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1286697/chunklist_w1092924588.m3u8
 
 #EXTINF:-1 tvg-id="OCN Movie2 tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",OCN Movie2 tvdol
-http://122.129.115.66:1935/livedol/ch1296308/chunklist_w2118143881.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1296308/chunklist_w85369993.m3u8
 
 #EXTINF:-1 tvg-id="ENA tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",ENA tvdol
-http://122.129.115.66:1935/livedol/ch1258649/chunklist_w1242287015.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1258649/chunklist_w1192324684.m3u8
 
 #EXTINF:-1 tvg-id="TVN Sport tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",TVN Sport tvdol
-http://122.129.115.66:1935/livedol/ch1340598/chunklist_w1295071604.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1340598/chunklist_w53424442.m3u8
 
 #EXTINF:-1 tvg-id="Tooniverse tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Tooniverse tvdol
-http://122.129.115.66:1935/livedol/ch1362498/chunklist_w506661943.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1362498/chunklist_w1966135386.m3u8
 
 #EXTINF:-1 tvg-id="Spotv on tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Spotv on tvdol
-http://122.129.115.66:1935/livedol/ch1546701/chunklist_w1299359864.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1546701/chunklist_w358451766.m3u8
+
+#EXTINF:-1 tvg-id="Spotv on2 tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Spotv on2 tvdol
+http://122.129.115.66:1935/livedol/_definst_/ch1559287/chunklist_w1290442548.m3u8
 
 #EXTINF:-1 tvg-id="Spotv tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Spotv tvdol
-http://122.129.115.66:1935/livedol/ch1527825/chunklist_w1641378442.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1527825/chunklist_w1962430865.m3u8
 
 #EXTINF:-1 tvg-id="Spotv2 tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Spotv2 tvdol
-http://122.129.115.66:1935/livedol/ch1534920/chunklist_w60744131.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1534920/chunklist_w841735681.m3u8
 
 #EXTINF:-1 tvg-id="JTBC3 tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC3 tvdol
-http://122.129.115.66:1935/livedol/ch1560877/chunklist_w1983551103.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1560877/chunklist_w1325051563.m3u8
 
 #EXTINF:-1 tvg-id="JTBC Golf tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JTBC Golf tvdol
-http://122.129.115.66:1935/livedol/ch1516720/chunklist_w892252597.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1516720/chunklist_w445184255.m3u8
 
 #EXTINF:-1 tvg-id="SBS Golf tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Golf tvdol
-http://122.129.115.66:1935/livedol/ch1508520/chunklist_w1530630767.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1508520/chunklist_w2025337477.m3u8
 
 #EXTINF:-1 tvg-id="YTN tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",YTN tvdol
-http://122.129.115.66:1935/livedol/ch1458530/chunklist_w1811697476.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1460347/chunklist_w1811565190.m3u8
 
 #EXTINF:-1 tvg-id="MBC Sport tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Sport tvdol
-http://122.129.115.66:1935/livedol/ch1486502/chunklist_w1945598925.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1486502/chunklist_w1038364214.m3u8
+
+#EXTINF:-1 tvg-id="KBS Sport tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS Sport tvdol
+http://122.129.115.66:1935/livedol/_definst_/ch1470519/chunklist_w2030705453.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",National Geographic tvdol
-http://122.129.115.66:1935/livedol/ch1213974/chunklist_w398216045.m3u8
+http://122.129.115.66:1935/livedol/_definst_/ch1570012/chunklist_w1295730829.m3u8
 
 #EXTINF:-1 tvg-id="SCTV tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SCTV tvdol
 http://122.129.115.66:1935/liveedge3/199320223054/playlist.m3u8
@@ -178,8 +96,11 @@ http://122.129.115.66:1935/liveedge3/14952020223096/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans tv tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Trans tv tvdol
 http://122.129.115.66:1935/liveedge3/2018911419943050/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC sky" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",MBC Sky
-http://69.25.115.202:8018/dtv1/nl.m3u8?k=985797032&k0=1684983600&k1=CAEDUQgOVFEG&c=AAgGVgc%3D&a=0&d=84&ip=69.25.115.202&nn_day=&nn_begin=&nn_time_len=
+#EXTINF:-1 tvg-id="GTV tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",GTV tvdol
+http://122.129.115.66:1935/liveedge3/gtv-blz/chunklist_w1111851210.m3u8
 
-#EXTINF:-1 tvg-id="SBS sky" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS Sky
-http://69.25.115.202:8018/dtv2/nl.m3u8?k=985857863&k0=1684983600&k1=CAEDXgQOXFQH&c=AAgGVAc%3D&a=0&d=70&ip=69.25.115.202&nn_day=&nn_begin=&nn_time_len=
+#EXTINF:-1 tvg-id="CNN tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",CNN tvdol
+http://122.129.115.66:1935/liveedge3/9314149914943618/chunklist_w1140448016.m3u8
+
+#EXTINF:-1 tvg-id="Junghwa tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",JungHwa tvdol
+http://122.129.115.66:1935/liveedge3/2499149711153071/chunklist_w1533281017.m3u8
