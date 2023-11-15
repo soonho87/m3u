@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1
 https://jk-live-us76.supportnettv.com/playlist/live.m3u8?sid=47f5Kw0qBwHj4lCEnH2cN1RKY8LW8zaghFcyxzDC&secret=d3575590ea62fca106dd369f717cd233&time=1700044825
 
-
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1
+=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..arEEyv_KyVesaSA-.47DYxVMCKcYhOnayVpyzOTTDC9j9RfnHsKRscluMLzhHdP_G_d-bdQciBrlmclDiD2pBeS6JUPejnSXdQgX9po4ytdUk8ELPg87_H72JvLqrpTqDNJnYKIsVN9qoxnDiRlyVLKq0TFmHw4UFozVUFXFpwS5q0f3-3V13nkm2e4eNJk-Smq1r90ECzbH-Zr3NIFjmuinarQQ2mq34ruBcJnufgF6k1RpFkci0D33Bcknj4Qwa2n0gCyMqaAsACTnFcQiNmvZeDxoGXvfKS_6aouK6ghDKXkAnRW294GbtNb5beduUQ56g8wjocTfliiIyaJmgqm9RqN230Ew7UkpNBqjUN6uiBt6TOKGHBOpEtXwLItuZPs0xfcREgGBycKTIKEzrfOGJcJEzA-RXJcAbJIgiSrTzJsln7bpT-u7SbE3nRn2WhYJVJDHFBGZZs_LbWo0W7fYv_1EH0Is6CAkEwQ6cOhUfGoBkG1XYZvL3FZUetnHiJkr4245Q-Ic_Mg.PfmABx2pJvDl0vDy-JUy5Q&platformLanguage=ko
 
 #EXTINF:-1 tvg-id="SBS HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS HD tvdol
 http://122.129.115.66:1935/livedol/_definst_/ch1449358/chunklist_w580702460.m3u8
