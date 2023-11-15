@@ -1,5 +1,10 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml"
 
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",KBS1
+https://jk-live-us76.supportnettv.com/playlist/live.m3u8?sid=47f5Kw0qBwHj4lCEnH2cN1RKY8LW8zaghFcyxzDC&secret=d3575590ea62fca106dd369f717cd233&time=1700044825
+
+
+
 #EXTINF:-1 tvg-id="SBS HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS HD tvdol
 http://122.129.115.66:1935/livedol/_definst_/ch1449358/chunklist_w580702460.m3u8
 
