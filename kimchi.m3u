@@ -1,3 +1,36 @@
+#EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
+http://1.245.74.5:1935/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLKJDTV.kr",SBS JIBS (720p) [Not 24/7]
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-id="HLDGDTV.kr",SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/2560px-KBS_2_logo.svg.png", KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/KBS_1_logo.svg.png/revision/latest?cb=20200921081500&path-prefix=ko", KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800",MBC
+https://zrr.kr/n5WE
+#EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800",MBC경남
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLANDTV.kr",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCQDTV.kr",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCQDTV.kr",TV CHOSUN
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
+#EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800",KBS DRAMA
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800",KBS Joy
+https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyCinema.id",My Cinema (1080p)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-id="MyCinemaAsia.id",My Cinema Asia (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-id="NaDooKorean.id",NaDoo Korean (1080p) [Geo-blocked]
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
+
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml"
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml"
@@ -294,38 +327,6 @@ https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="엔터테인먼트" , 씨네21+
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
-
-#EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://1.245.74.5:1935/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HLKJDTV.kr",SBS JIBS (720p) [Not 24/7]
-http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="HLDGDTV.kr",SBS KNN (1080p) [Not 24/7]
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/2560px-KBS_2_logo.svg.png", KBS 2TV
-http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/KBS_1_logo.svg.png/revision/latest?cb=20200921081500&path-prefix=ko", KBS 1TV
-http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800",MBC
-https://zrr.kr/n5WE
-#EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800",MBC경남
-https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HLANDTV.kr",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="HLCQDTV.kr",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800",KBS DRAMA
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1  tvg-logo="https://mblogthumb-phinf.pstatic.net/20160625_171/ppanppane_1466811662044EcWUF_PNG/%BF%A5%BA%F1%BE%BE%B7%CE%B0%ED_%281%29.png?type=w800",KBS Joy
-https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyCinema.id",My Cinema (1080p)
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:-1 tvg-id="MyCinemaAsia.id",My Cinema Asia (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-id="NaDooKorean.id",NaDoo Korean (1080p) [Geo-blocked]
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
-
-
 
 #EXTINF:-1 tvg-id="SBS HD tvdol" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",SBS HD tvdol
 http://122.129.115.66:1935/livedol/_definst_/ch1449358/chunklist_w580702460.m3u8
